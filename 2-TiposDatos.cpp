@@ -7,7 +7,7 @@ int main (){
 	int numero  = 15;
 	float flotante = 9.999;
 	double decimalesplus = 3.141516;
-	char letra = 'x';
+	char letra = 'x'; //Solo un caracter 
 	
 	cout << numero <<endl;
 	cout << flotante << endl;
