@@ -7,7 +7,7 @@ int main (){
     cout<<"\nDigite el valor de a:";cin>>a;
     cout<<"Digite el valor de b: "; cin>>b;
     resultado = (a/b) +1;
-    cout.precision(3); //Cifras significativas
+    cout.precision(3); //Cifras significativas Aplica a TODAS las salidas
     cout<<"El resultado es: "<<resultado<<endl;
 
     cout<<"\n\nSegundo ejercicio";
